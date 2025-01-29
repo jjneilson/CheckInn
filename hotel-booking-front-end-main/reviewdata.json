@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": 1,
+    "rating": 5,
+    "title": "Amazing Stay!",
+    "description": "The resort exceeded all expectations. The view was incredible, and the service was top-notch.",
+    "user_id_fk": 101,
+    "hotel_id_fk": 1
+  },
+  {
+    "review_id": 2,
+    "rating": 4,
+    "title": "Great Experience",
+    "description": "The amenities were excellent, though the room could have been a bit cleaner.",
+    "user_id_fk": 102,
+    "hotel_id_fk": 1
+  },
+  {
+    "review_id": 3,
+    "rating": 3,
+    "title": "Decent but Overpriced",
+    "description": "Nice location, but the price didn’t match the value offered.",
+    "user_id_fk": 103,
+    "hotel_id_fk": 1
+  },
+  {
+    "review_id": 4,
+    "rating": 5,
+    "title": "Unforgettable Vacation",
+    "description": "The beachfront view and the friendly staff made this the best vacation ever!",
+    "user_id_fk": 104,
+    "hotel_id_fk": 1
+  },
+  {
+    "review_id": 5,
+    "rating": 2,
+    "title": "Not Worth the Hype",
+    "description": "The facilities were outdated, and the customer service left much to be desired.",
+    "user_id_fk": 105,
+    "hotel_id_fk": 1
+  }
+]

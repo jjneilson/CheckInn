@@ -1,0 +1,52 @@
+[
+    {
+      "reserve_id": 1,
+      "check_in_time": "2025-01-15T15:00:00",
+      "check_out_time": "2025-01-20T11:00:00",
+      "user_id_fk": 101,
+      "hotel_id_fk": 1
+    },
+    {
+      "reserve_id": 2,
+      "check_in_time": "2025-02-05T14:00:00",
+      "check_out_time": "2025-02-10T10:00:00",
+      "user_id_fk": 102,
+      "hotel_id_fk": 2
+    },
+    {
+      "reserve_id": 3,
+      "check_in_time": "2025-03-01T16:00:00",
+      "check_out_time": "2025-03-06T12:00:00",
+      "user_id_fk": 103,
+      "hotel_id_fk": 1
+    },
+    {
+      "reserve_id": 4,
+      "check_in_time": "2025-04-10T15:30:00",
+      "check_out_time": "2025-04-15T11:30:00",
+      "user_id_fk": 104,
+      "hotel_id_fk": 3
+    },
+    {
+      "reserve_id": 5,
+      "check_in_time": "2025-05-20T13:00:00",
+      "check_out_time": "2025-05-25T10:00:00",
+      "user_id_fk": 105,
+      "hotel_id_fk": 4
+    },
+    {
+      "reserve_id": 6,
+      "check_in_time": "2025-05-20T13:00:00",
+      "check_out_time": "2025-05-25T10:00:00",
+      "user_id_fk": 105,
+      "hotel_id_fk": 4
+    },
+    {
+      "reserve_id": 7,
+      "check_in_time": "2025-05-20T13:00:00",
+      "check_out_time": "2025-05-25T10:00:00",
+      "user_id_fk": 105,
+      "hotel_id_fk": 4
+    }
+  ]
+  

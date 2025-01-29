@@ -1,0 +1,11 @@
+CSS notes
+
+In Tailwind: 1rem = 16px
+Current Height of Navbar = 5rem = 5 x 16 = 80px
+
+Padding: px-36 on all pages
+Padding-Y is not decided
+
+
+Current height of navbar = 99px
+primary-color: #022b60

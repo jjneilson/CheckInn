@@ -1,0 +1,48 @@
+[
+    {
+      "hotel_id": 1,
+      "hotel_name": "Grand Sunset Resort",
+      "description": "A luxurious beachfront resort offering breathtaking ocean views and world-class amenities.",
+      "rooms": 150,
+      "location": "Miami, FL",
+      "price": 250.50,
+      "image": "https://digital.ihg.com/is/image/ihg/ckvcv-garner-clarksville-northeast-exterior-sunset"
+    },
+    {
+      "hotel_id": 2,
+      "hotel_name": "Mountain Bliss Retreat",
+      "description": "A serene mountain retreat perfect for nature lovers and adventure seekers.",
+      "rooms": 80,
+      "location": "Aspen, CO",
+      "price": 180.75,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156652899.webp?k=937c75fbc8385fd741f03ea93289253d0f1f664bb47fd5efc6e2bfb6e7d0ac6a&o="
+    },
+    {
+      "hotel_id": 3,
+      "hotel_name": "Urban Escape Hotel",
+      "description": "A chic and modern hotel located in the heart of the city, ideal for business and leisure.",
+      "rooms": 200,
+      "location": "New York, NY",
+      "price": 300.00,
+      "image": "https://digital.ihg.com/is/image/ihg/even-hotels-shenandoah-7120185026-4x3"
+    },
+    {
+      "hotel_id": 4,
+      "hotel_name": "Lakeside Serenity Inn",
+      "description": "A cozy lakeside inn offering peaceful surroundings and warm hospitality.",
+      "rooms": 60,
+      "location": "Lake Tahoe, CA",
+      "price": 120.99,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307355253.jpg?k=fb6f62a75f712419b43a845d16b96234ce3ef6013dcc93bd99146f828f24128b&o=&hp=1"
+    },
+    {
+      "hotel_id": 5,
+      "hotel_name": "Desert Oasis Lodge",
+      "description": "A unique lodge in the desert featuring stunning views and exceptional service.",
+      "rooms": 45,
+      "location": "Phoenix, AZ",
+      "price": 220.00,
+      "image": "https://costar.brightspotcdn.com/dims4/default/f5408af/2147483647/strip/true/crop/2100x1400+0+0/resize/2100x1400!/quality/100/?url=http%3A%2F%2Fcostar-brightspot.s3.us-east-1.amazonaws.com%2F73%2Fd9%2F4c27902242238bd0d2ea7fa2fcbd%2F20230725-india-grandhyattmumbai.jpg"
+    }
+  ]
+  
